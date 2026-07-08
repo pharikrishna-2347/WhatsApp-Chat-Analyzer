@@ -5,9 +5,8 @@ A Streamlit-based web application that analyzes exported WhatsApp chat files and
 ## 🌐 Live Demo
 
 🔗 **Try the application here:**
-https://your-streamlit-app-url.streamlit.app
-
-> **Note:** Replace the above URL with your deployed Streamlit application link after deployment.
+[https://your-streamlit-app-url.streamlit.app
+](https://phk-whatsapp-chat-analyzer-zzypweg3nkymhvspx6fj8x.streamlit.app/)
 
 
 ## 🚀 Features
